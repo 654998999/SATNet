@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@fc6efce8-9e34-4f68-a39a-1aca2825294e" />
+        <remote-mappings server-id="python@sftp://gpu@121.4.55.52:6666/etc/anaconda3/envs/daixy/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/gpu/pytorchtimeseries/实验3" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
